@@ -1,19 +1,19 @@
-## Welcome to Unity Ensemble GitHub Pages
+# Welcome to Unity Ensemble GitHub Pages
 
-# Problem statement
+## Problem statement
 [Link](https://zachcleveland.github.io/UnityEnsemble/problem)
 
-# User Stories
+## User Stories
 [Link](https://zachcleveland.github.io/UnityEnsemble/userstories)
 
-# Requirements
+## Requirements
 [Link](https://zachcleveland.github.io/UnityEnsemble/requirements)
 
-# Architecture
+## Architecture
 [Link](https://zachcleveland.github.io/UnityEnsemble/architecture)
 
-# Design Document
+## Design Document
 [Link](https://zachcleveland.github.io/UnityEnsemble/design)
 
-# Test Report
+## Test Report
 [Link](https://zachcleveland.github.io/UnityEnsemble/testreport)
