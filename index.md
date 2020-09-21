@@ -2,17 +2,12 @@
 
 ## [Problem statement](https://zachcleveland.github.io/UnityEnsemble/problem)
 
-## User Stories
-[Link](https://zachcleveland.github.io/UnityEnsemble/userstories)
+## [User Stories](https://zachcleveland.github.io/UnityEnsemble/userstories)
 
-## Requirements
-[Link](https://zachcleveland.github.io/UnityEnsemble/requirements)
+## [Requirements](https://zachcleveland.github.io/UnityEnsemble/requirements)
 
-## Architecture
-[Link](https://zachcleveland.github.io/UnityEnsemble/architecture)
+## [Architecture](https://zachcleveland.github.io/UnityEnsemble/architecture)
 
-## Design Document
-[Link](https://zachcleveland.github.io/UnityEnsemble/design)
+## [Design Document](https://zachcleveland.github.io/UnityEnsemble/design)
 
-## Test Report
-[Link](https://zachcleveland.github.io/UnityEnsemble/testreport)
+## [Test Report](https://zachcleveland.github.io/UnityEnsemble/testreport)
