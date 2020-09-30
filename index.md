@@ -1,6 +1,6 @@
 # Welcome to Unity Ensemble GitHub Pages
 
-## [Problem statement](https://zachcleveland.github.io/UnityEnsemble/problem)
+## [Problem statement](https://zachcleveland.github.io/UnityEnsemble/problem.html)
 
 ## [User Stories](https://zachcleveland.github.io/UnityEnsemble/userstories)
 
